@@ -28,8 +28,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 18px;
-  font-family: Arial, sans-serif;
 }
 
 .row1, .row2, .right{
